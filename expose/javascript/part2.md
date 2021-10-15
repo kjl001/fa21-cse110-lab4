@@ -12,3 +12,28 @@
 12. Question 12
     1.  student.name
     2.  student\["Grad Year"\]
+    3.  student.greeting()
+    4.  student\["Favorite Teacher"\].name
+    5.  student.courseLoad[0]
+13. Question 13
+    1.  32
+    2.  1
+    3.  3
+    4.  3null
+    5.  4
+    6.  0
+    7.  3undefined
+    8.  NaN
+14. Question 14
+    1.  true
+    2.  false
+    3.  true
+    4.  false
+    5.  false
+    6.  true
+15. The == operator checks equality with type conversion while the === operator checks equality without type conversion.
+17. The result would be an array \[2,4,6\]. The function modifyArray accepts the array \[1,2,3\] and the function doSomething. Then, it creates a const newArray array variable. Then, it iterates through the input array and pushes values that have been outputted from the callback function, which is doSomething, into newArr. Finally, it returns newArr, being \[2,4,6\].
+19. 1
+    4
+    3
+    2
