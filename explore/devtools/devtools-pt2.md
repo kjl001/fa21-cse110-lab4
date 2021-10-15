@@ -1,0 +1,2 @@
+1. The bug was that the functions are calculating the sum with strings rather than with integers. So, instead of adding numeral values, the function is concatenating two strings together.
+2. I would fix it by converting num1 and num2 to integers so that they could be properly summed together.
